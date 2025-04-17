@@ -7,7 +7,7 @@ export default [
     action: 'read',
   },
   {
-    title: 'Informasi Pendaftaran',
+    title: 'Informasis',
     route: 'informasi-pendaftaran',
     icon: 'InfoIcon',
     resource: 'Auth',
