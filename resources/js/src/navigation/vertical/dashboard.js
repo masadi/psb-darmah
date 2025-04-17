@@ -1,18 +1,23 @@
 export default [
   {
-    title: 'Dashboards',
+    title: 'Beranda',
+    route: 'homepage',
     icon: 'HomeIcon',
-    tag: '2',
-    tagVariant: 'light-warning',
-    children: [
-      {
-        title: 'eCommerce',
-        route: 'dashboard-ecommerce',
-      },
-      {
-        title: 'Analytics',
-        route: 'dashboard-analytics',
-      },
-    ],
+    resource: 'Auth',
+    action: 'read',
+  },
+  {
+    title: 'Informasi Pendaftaran',
+    route: 'informasi-pendaftaran',
+    icon: 'InfoIcon',
+    resource: 'Auth',
+    action: 'read',
+  },
+  {
+    title: 'Daftar',
+    route: 'daftar',
+    icon: 'UserPlusIcon',
+    resource: 'Auth',
+    action: 'read',
   },
 ]
