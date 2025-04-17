@@ -31,24 +31,24 @@
           <b-col>
             <app-collapse>
               <app-collapse-item title="Periode Pendaftaran" :isVisible="true">
-                <p>Gelombang 1:<br><strong>31 Oktober s/d 14 Desember 2024</strong></p>
-                <p>Gelombang 2:<br><strong>18 Desember 2024 s/d 25 April 2025</strong></p>
-                <p>Gelombang 3:<br><strong>29 April s/d 12 Juli 2025</strong></p>
+                <p>Gelombang 1:<br><strong>1 April s/d 30 April 2025</strong></p>
+                <p>Gelombang 2:<br><strong>1 Mei s/d 31 Mei 2025</strong></p>
+                <p>Gelombang 3:<br><strong>10 Juni s/d 25 Juli 2025</strong></p>
               </app-collapse-item>
               <app-collapse-item title="Waktu Pelayanan" :isVisible="true">
                 <p>Pagi:</p>
                 <p><strong>08.00 ~ 12.00 WIB</strong></p>
                 <p>Siang:</p>
-                <p><strong>13.00 ~ 16.00 WIB</strong></p>
+                <p><strong>12.00 ~ 16.30 WIB</strong></p>
               </app-collapse-item>
               <app-collapse-item title="Informasi Pelayanan" :isVisible="true">
-                <p>Ust. Abdul Kholiq : <a href="https://wa.me/6285234223306" target="_blank"><strong>6285234223306</strong></a></p>
-                <p>Usth. Najmi (RA) : <a href="https://wa.me/6285253600654" target="_blank"><strong>6285253600654</strong></a></p>
-                <p>Ust. Najib (MI) : <a href="https://wa.me/6282143280252" target="_blank"><strong>6282143280252</strong></a></p>
-                <p>Ust. Khofil (MTs) : <a href="https://wa.me/6285388724561" target="_blank"><strong>6285388724561</strong></a></p>
-                <p>Ust. Ubed (SMP) :  <a href="https://wa.me/6285320561697" target="_blank"><strong>6285320561697</strong></a></p>
-                <p>Ust. Aziz (MA) : <a href="https://wa.me/6282230213310" target="_blank"><strong>6282230213310</strong></a></p>
-                <p>Ust. Fauzi (SMK) : <a href="https://wa.me/6285234980128" target="_blank"><strong>6285234980128</strong></a></p>
+                <p>Ust. ? : <a href="https://wa.me/6281938299242" target="_blank"><strong>6281938299242</strong></a></p>
+                <p>Ust. ? (TK/PAUD) : <a href="https://wa.me/6287866128271" target="_blank"><strong>6287866128271</strong></a></p>
+                <p>Ust. ? (SD) : <a href="https://wa.me/6285231629378" target="_blank"><strong>6285231629378</strong></a></p>
+                <p>Ust. ? (SMP) : <a href="https://wa.me/6282301688547" target="_blank"><strong>6282301688547</strong></a></p>
+                <p>Ust. ? (SMA) :  <a href="https://wa.me/6285231639075" target="_blank"><strong>6285231639075</strong></a></p>
+                <p>Ust. ? (MADIN) : <a href="https://wa.me/628xxx" target="_blank"><strong>6282230213310</strong></a></p>
+                <p>Ust. ? (Ponpes) : <a href="https://wa.me/628xxx" target="_blank"><strong>628xxx</strong></a></p>
               </app-collapse-item>
             </app-collapse>
           </b-col>
